@@ -1,4 +1,5 @@
 ### Quick Start
+Clone this repo, cd into the directory that you cloned it to and run the commands below
 
 - `ddev artisan key:generate`
 - `ddev artisan cache:clear`
