@@ -1,6 +1,8 @@
 ### Quick Start
 Clone this repo, cd into the directory that you cloned it to and run the commands below
-
+- `You must have ddev already installed`
+- `change project name in .ddev/config.yaml`
+- `run ddev start`
 - `ddev artisan key:generate`
 - `ddev artisan cache:clear`
 - `ddev artisan migrate`
