@@ -5,8 +5,8 @@ Clone this repo, cd into the directory that you cloned it to and run the command
 - `ddev start`
 - `ddev composer install`
 - `ddev artisan key:generate`
+-  `ddev artisan migrate`
 - `ddev artisan cache:clear`
-- `ddev artisan migrate`
 - `ddev npm install`
 - `ddev npm run dev`
 
